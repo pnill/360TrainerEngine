@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<xex>
+<version major="0x02" minor="0x00" build="0x3143" qfe="0x00"/>
+
+<format>
+<compressed/>
+</format>
+
+<mediatypes>
+<default/>
+<allpackages/>
+</mediatypes>
+
+<gameregion>
+<all/>
+</gameregion>
+</xex>
